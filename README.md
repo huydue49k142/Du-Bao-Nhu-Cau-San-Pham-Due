@@ -1,4 +1,4 @@
-# Ứng dụng Dự báo Nhu cầu Sản phẩm bằng Django và AI
+# Ứng dụng Dự báo Nhu cầu Sản phẩm bằng Django
 
  <!-- Bạn có thể thay link này bằng ảnh chụp màn hình ứng dụng của bạn -->
 
